@@ -9,7 +9,7 @@
 
 /*Link Color*/
 .dark a:link {
-  color: blue;
+  color: #4cb7e1;
   background-color: transparent;
   text-decoration: none;
 }
@@ -30,16 +30,22 @@
 }
 
 /* Text styles */
+* {
+  font-size: 16px;
+}
+
 h1, h2 {
   font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
   font-weight: 400;
+  font-size: 2em;
 }
 
 h2 {
   font-weight: 700;
+  font-size: 1.3em;
 }
 
 p {
