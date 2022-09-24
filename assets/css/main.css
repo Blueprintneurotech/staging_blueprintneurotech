@@ -1,3 +1,6 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@400;600&display=swap');
+
 /*Image Responsiveness*/
 .responsive {
   width: 100%;
@@ -24,4 +27,22 @@
   color: pink;
   background-color: transparent;
   text-decoration: underline;
+}
+
+/* Text styles */
+h1, h2 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-weight: 400;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
 }
