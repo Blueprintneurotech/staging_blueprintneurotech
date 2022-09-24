@@ -13,6 +13,13 @@
   width: 66%;
 }
 
+/* dark Class */
+.dark {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
 /*Link Color*/
 .dark a:link {
   color: #4cb7e1;
@@ -36,11 +43,6 @@
 }
 
 /* Text styles */
-* {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-}
 
 h1, h2 {
   font-family: 'Open Sans', sans-serif;
