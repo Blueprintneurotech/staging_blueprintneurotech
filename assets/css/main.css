@@ -7,6 +7,12 @@
   height: auto;
 }
 
+/*Text Responsiveness*/
+.center {
+  margin: auto;
+  width: 66%;
+}
+
 /*Link Color*/
 .dark a:link {
   color: #4cb7e1;
