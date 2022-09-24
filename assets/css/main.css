@@ -8,7 +8,7 @@ body {
 }
 @media (max-width: 979px) {
   body {
-    padding-top: 0px;
+    	padding-top: 0px;
   }
 }
 
@@ -51,6 +51,12 @@ body {
   color: pink;
   background-color: transparent;
   text-decoration: underline;
+}
+
+@media (max-width: 979px) {
+  .dark {
+    	 font-size: 8px;
+  }
 }
 
 /* Text styles */
