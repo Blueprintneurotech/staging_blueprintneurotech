@@ -3,7 +3,8 @@
 
 /* Body Padding */
 body {
-  padding-top: 40px;
+	margin: 0 !important;
+	padding: 0 !important;
 }
 @media (max-width: 979px) {
   body {
