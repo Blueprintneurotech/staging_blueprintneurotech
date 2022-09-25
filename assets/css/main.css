@@ -42,11 +42,16 @@ body {
 	display: block;
   	width: 100%;
   	border: none;
+	color: white;
   	background-color: #4cb7e1;
   	padding: 14px 28px;
   	font-size: 16px;
   	cursor: pointer;
   	text-align: center;
+}
+.block:hover {
+  background-color: #c648c2;
+  color: black;
 }
 
 /*Link Color*/
