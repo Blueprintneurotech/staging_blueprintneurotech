@@ -21,6 +21,9 @@ body {
 .responsive1 {
 	width: auto;
 	height: 10em;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /*Text Responsiveness*/
