@@ -83,6 +83,11 @@ h3 {
 	font-style: italic;
 }
 
+h4 {
+	font-style: bold;
+	font-size: 1.1em;
+}
+
 /* Navigation Bar */
 	
 .topnav {
