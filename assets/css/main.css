@@ -18,6 +18,11 @@ body {
   height: auto;
 }
 
+.responsive1 {
+	width: 33%;
+	height: auto;
+}
+
 /*Text Responsiveness*/
 .center {
   margin: auto;
