@@ -19,8 +19,8 @@ body {
 }
 
 .responsive1 {
-	width: 33%;
-	height: auto;
+	width: auto;
+	height: 10em;
 }
 
 /*Text Responsiveness*/
